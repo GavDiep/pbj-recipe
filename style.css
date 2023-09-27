@@ -1,0 +1,44 @@
+html {
+  background-color: rgb(23, 84, 197);
+}
+
+body {
+  background-color: white;
+  font-family: "Times New Roman", Times, serif;
+  width: 450px;
+  margin: 150px auto;
+  padding: 50px 250px;
+  border: 16px solid gainsboro;
+  border-radius: 30px;
+  justify-content: center;
+}
+
+h1 {
+  color: rgba(201, 21, 21, 0.675);
+}
+
+h2 {
+  color: rgba(5, 55, 255, 0.951);
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  font-size: 17.5px;
+  text-decoration: underline;
+  color: darkorchid;
+}
+
+a {
+  color: rgba(194, 20, 127, 0.51);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
